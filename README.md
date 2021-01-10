@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/olaysco/simple-node.svg?branch=main)](https://travis-ci.com/olaysco/simple-node)
 # Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
